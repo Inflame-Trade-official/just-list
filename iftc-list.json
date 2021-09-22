@@ -3,11 +3,11 @@
     "tokens":[
         {
             "symbol":"IFTC",
-            "address":"",
+            "address":"THCJFxHGngTBmchu2r2aBRYkuS4iexWk6V",
             "chainId":1,
             "decimals":6,
             "name":"Inflame Trade Token",
-            "logoURI":"XXX"
+            "logoURI":"https://coin.top/production/upload/logo/THCJFxHGngTBmchu2r2aBRYkuS4iexWk6V.png"
         }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
